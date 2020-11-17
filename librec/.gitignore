@@ -1,0 +1,15 @@
+# elipse output files
+bin
+Results
+debug.log
+log4j.log
+results.txt
+release
+doc/
+
+
+# idea intellij output files
+out
+target
+.idea
+librec.iml
